@@ -1,5 +1,8 @@
 # 💫 About Me:
-⭐   Education : Computer Science Student at Moi University, Kenya<br>⭐   Profession : Full Stack Developer at Beren LCC Company<br>⭐   Current Project : Flutter Kazi Project
+🔭  Education : Computer Science Student at Moi University, Kenya<br>
+👯  Profession : Full Stack Developer at Beren LCC Company<br>
+🔭  Current Project : Flutter Kazi Project
+
 
 
 ## 🌐 Socials:
