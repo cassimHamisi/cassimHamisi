@@ -1,5 +1,7 @@
-![Header](./[![image](https://github.com/cassimHamisi/cassimHamisi/assets/115216722/db7e84c6-d789-43b2-a36d-82d3b7371871)
-])
+![image](https://github.com/cassimHamisi/cassimHamisi/assets/115216722/ef29befd-f0c1-48ce-8ef3-fe41a3040664)
+
+
+
 
 # 💫 About Me:
 🔭  Education : Computer Science Student at Moi University, Kenya<br>
