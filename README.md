@@ -1,3 +1,6 @@
+![Header](./[![image](https://github.com/cassimHamisi/cassimHamisi/assets/115216722/db7e84c6-d789-43b2-a36d-82d3b7371871)
+])
+
 # 💫 About Me:
 🔭  Education : Computer Science Student at Moi University, Kenya<br>
 👯  Profession : Full Stack Developer at Beren LCC Company<br>
